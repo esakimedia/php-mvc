@@ -1,0 +1,15 @@
+{
+    "name": "esakimedia/php-mvc",
+    "authors": [
+        {
+            "name": "esakimedia",
+            "email": "apachecordovax@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
